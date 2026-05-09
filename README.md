@@ -1,7 +1,5 @@
 # fom.dll
 
-Empire Rising client hook.
-
 ## Install
 
 1. Copy `dinput8.dll` into the same folder as `fom_client.exe`.
