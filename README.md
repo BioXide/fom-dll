@@ -1,4 +1,5 @@
 # fom.dll
+for testing purposes only
 
 ## Install
 
