@@ -13,6 +13,8 @@
 - Fire rate control
 - Movement speed control
 
-[No recoil demo](https://streamable.com/fo89ma)
-[Fire rate demo](https://streamable.com/l4r9jr)
-[Movement speed demo](https://streamable.com/794k7x)
+## Videos
+
+- [No recoil demo](https://streamable.com/fo89ma)
+- [Fire rate demo](https://streamable.com/l4r9jr)
+- [Movement speed demo](https://streamable.com/794k7x)
